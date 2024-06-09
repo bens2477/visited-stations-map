@@ -1,3 +1,4 @@
+// Last updated 09.06
 import * as csv from 'csv/browser/esm'
 import { finished } from 'node:stream/promises'
 
